@@ -1,6 +1,8 @@
+html {
+    font-size: 40%;
+}
 body {
     font-family:"Arial", "Meiryo", sans-serif;
-    font-size: 20PX;
     text-align: center;
 }
 h1 {
@@ -19,6 +21,6 @@ h1 {
 .text-blue {
     color: skyblue;
 }
-#child {
+#basic p {
     font-weight: bold;
 }
